@@ -112,6 +112,8 @@ author:
   bio              : "Data Science Portfolio."
   location         : "Toronto, ON, Canada"
   email            : "a.pallekonda@yahoo.com"
+  github           : "othersideoflearning"
+  linkedin         : "apallekonda"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -125,7 +127,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "othersideoflearning"
+    - label: "Git Hub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/othersideoflearning"
     - label: "Instagram"
