@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:a.pallekonda@gmail.com
+       # url: mailto:a.pallekonda@yahoo.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
